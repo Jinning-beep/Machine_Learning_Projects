@@ -1,0 +1,9 @@
+# ignore the original data
+*.txt
+*.csv
+*.mat
+*.m
+*.pyc
+# ignore the automated saved files
+.ipynb_checkpoints/
+_pycache_/

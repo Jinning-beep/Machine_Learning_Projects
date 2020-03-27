@@ -5,4 +5,5 @@ Since emails come from different sources might have different patterns, therefor
 
 ## Library dependencies for the python code.
 Need to import Functions.py in order to run the code.
+
 nltk need to be installed since it is used to stem words using PorterStemmer

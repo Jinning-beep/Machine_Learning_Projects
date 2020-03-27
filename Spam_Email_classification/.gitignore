@@ -7,3 +7,5 @@
 # ignore the automated saved files
 .ipynb_checkpoints/
 _pycache_/
+# ignore test file
+Testfile.ipynb
